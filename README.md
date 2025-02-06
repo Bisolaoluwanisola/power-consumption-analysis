@@ -1,5 +1,24 @@
-# power consumption analysis 
-# OVERVIEW 
+# TABLE OF CONTENT 
+# .POWER CONSUMPTION OVEERVIEW
+# .LANDING PAGE 
+# .DATA SOURCE
+# .TOOLS
+# .TYPES OF ANALYSIS USED FOR THIS PROJECT 
+# .KEY PERFORMERS INDICATORS 
+# .
+
+
+
+
+
+
+.
+
+
+
+
+
+# POWER CONSUMPTION ANALYSIS OVERVIEW 
 I analyze this power bi dashboard and provide insight into power consumption trends across diffrent zones and enviromental factors ,the analysis also highlights sesonal variations in humidity ,temprature and wind speed.
 # DATA SOURCE
 [download here] https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
