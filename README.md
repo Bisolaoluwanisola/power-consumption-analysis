@@ -2,6 +2,7 @@
 # OVERVIEW 
 I analyze this power bi dashboard and provide insight into power consumption trends across diffrent zones and enviromental factors ,the analysis also highlights sesonal variations in humidity ,temprature and wind speed.
 # DATA SOURCE
+[download here] https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 # DASHBOARD
 [Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/68bb3963-9162-44b8-98e9-ebe9b9c62e01)
 ![dashboard2](https://github.com/user-attachments/assets/ececbce6-5223-4b22-9c9a-be55de4f7492)
