@@ -6,4 +6,4 @@ I analyze this power bi dashboard and provide insight into power consumption tre
 
 #DASHBOARD 
 
-[POWER CONSUMPTION ANALYSIS] ![Screenshot (15)](https://github.com/user-attachments/assets/4609fdaf-a094-405b-9b04-88f416288834)
+[POWER CONSUMPTION ANALYSIS] ![Screenshot (15)](https://github.com/user-attachments/assets/93e84bad-0b13-4d77-8521-b900e43fb538)
