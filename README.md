@@ -5,14 +5,14 @@ I analyze this power bi dashboard and provide insight into power consumption tre
 # DASHBOARD
 [Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/f4384448-97a2-47ab-90af-bd8b892e9761)
 # INSIGHT
-1.Month by total power consumption we recorded the highest power consumption in july with 393,606kwh
-2. power consumption by all zones 
-zone 1 recorded the highest power consumption in july with 28294kwh
+1. Month by total power consumption we recorded the highest power consumption in july with 393,606kwh
+2. power consumption by all zones ,zone 1 recorded the highest power consumption in july with 393,606kwh
 3. We recorded the highest humidity in qtr1 ,highest diffuse in qtr2, highest temprature in qtr3 , and highest windspeed in qtr3
-4. kpi visulisation 275.40 million
-target 96.62k
-5. we recorded the highest average power consumption in july 88kwh and power consumption variance in august with 35k
-6. Thursday has the highest power consumption with 73k kwh
+4. KPI visulization 275.40M
+5. target 96.62k(-284964)
+6. we recorded the highest average power consumption in july 88kwh and power consumption variance in august with 35k
+7. Thursday has the highest power consumption with 73k kwh
+
 # RECOMMENDATION 
 1. investigate the reson behind the spike in power consumption
 2. encourage energy efficient pratrice such as using smart meters to alert user of high consumption period or ofeer incentives for off peak usage
