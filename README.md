@@ -1,26 +1,22 @@
-# TABLE OF CONTENT 
-# .POWER CONSUMPTION OVEERVIEW
-# .LANDING PAGE 
-# .DATA SOURCE
-# .TOOLS
-# .TYPES OF ANALYSIS USED FOR THIS PROJECT 
-# .KEY PERFORMERS INDICATORS 
-# .DATA ANALYSIS
-# .INSIGHT
-# .RECOMMENDATIONS
-
 # POWER CONSUMPTION ANALYSIS OVERVIEW 
-I analyze this power bi dashboard and provide insight into power consumption trends across diffrent zones and enviromental factors ,the analysis also highlights sesonal variations in humidity ,temprature and wind speed.
-# LANDING PAGE
-1.	Date – A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
-	2.	Temperature – The measure of how hot or cold something is, usually expressed in degrees Celsius (°C) or Fahrenheit (°F).
-	3.	Humidity – The amount of water vapor present in the air, usually expressed as a percentage (%).
-	4.	Windspeed – The rate at which air moves in a given direction, commonly measured in meters per second (m/s) or kilometers per hour (km/h).
-	5.	General Diffuse Flow – The total amount of diffused solar radiation received at a given location, including all scattered sunlight.
-	6.	Diffuse Flow – The portion of solar radiation that is scattered by atmospheric particles and reaches the surface without direct sunlight.
 
+
+# LANDING PAGE
+1. Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
+2. Temperature – The measure of how hot or cold something is, usually expressed in degrees Celsius (°C) or Fahrenheit (°F).
+3. Humidity – The amount of water vapor present in the air, usually expressed as a percentage (%).
+4. Windspeed – The rate at which air moves in a given direction, commonly measured in meters per second (m/s) or kilometers per hour (km/h).
+5. General Diffuse Flow – The total amount of diffused solar radiation received at a given location, including all scattered sunlight.
+6. Diffuse Flow – The portion of solar radiation that is scattered by atmospheric particles and reaches the surface without direct sunlight.
+7. Day of the Week – The name of a specific day in the seven-day cycle (e.g., Monday, Tuesday, etc.).
+8. Power Consumption Zone 1, 2, and 3 – The amount of electrical energy used in specific predefined areas (Zone 1, Zone 2, and Zone 3) within a facility, building, or grid system, typically measured in kilowatt-hours (kWh)
 # DATA SOURCE
 [download here] https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
+# TOOLS
+power bi
+# TYPES OF ANALYSIS USED FOR THIS PROJECT 
+# KEY PERFORMANCE INDICATORS
+# DATA ANALYSIS
 # DASHBOARD
 [Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/68bb3963-9162-44b8-98e9-ebe9b9c62e01)
 ![dashboard2](https://github.com/user-attachments/assets/ececbce6-5223-4b22-9c9a-be55de4f7492)
