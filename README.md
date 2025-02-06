@@ -3,7 +3,8 @@
 I analyze this power bi dashboard and provide insight into power consumption trends across diffrent zones and enviromental factors ,the analysis also highlights sesonal variations in humidity ,temprature and wind speed.
 # DATA SOURCE
 # DASHBOARD
-[Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/f4384448-97a2-47ab-90af-bd8b892e9761)
+[Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/68bb3963-9162-44b8-98e9-ebe9b9c62e01)
+![dashboard2](https://github.com/user-attachments/assets/ececbce6-5223-4b22-9c9a-be55de4f7492)
 # INSIGHT
 1. Month by total power consumption we recorded the highest power consumption in july with 393,606kwh
 2. power consumption by all zones ,zone 1 recorded the highest power consumption in july with 393,606kwh
