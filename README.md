@@ -26,6 +26,7 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 4.  Was the power consumption taregt of the year archieved
 5.  Which month experience the highest overall power consumption
 6.  On which day of the week is power consumption at its peak
+7.  ZONE
 
 
 # DATA ANALYSIS
