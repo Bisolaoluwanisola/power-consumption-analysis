@@ -1,5 +1,6 @@
 # POWER CONSUMPTION ANALYSIS OVERVIEW 
-
+This dataset records power consumption acrossmultiple zones along with enviromental factors such as temprature,humidity,and windspeed.spanning the year 2017
+It provides daily measurement of energy usage in diffrent areas.the datasey is useful for analyzing trends,forcasting power demand and optimizing energy distribution .it can help idetify patternsinfluenced by weather condition and improve energy efficiency strategies
 
 # LANDING PAGE
 1. Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
