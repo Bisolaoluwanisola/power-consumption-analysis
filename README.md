@@ -21,8 +21,8 @@ power consumption analysis-to analyze the impact of powwer consumption acrosss a
 atmosphere condition analysis- to identify trends overtime across all the quaters of the year
 # KEY PERFORMANCE INDICATORS
 1. In which month is the power consumption variance the highest
-2.  which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
-3.  which zone exhibit the highest power consumption
+2.  Which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
+3.  Which zone exhibit the highest power consumption
 4.  Was the power consumption taregt of the year archieved
 5.  Which month experience the highest overall power consumption
 6.  On which day of the week is power consumption at its peak
