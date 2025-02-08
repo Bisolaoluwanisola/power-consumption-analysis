@@ -58,7 +58,6 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 |tuesday| 60 | 80 | 90 |
 
 '''python
-
 '''
      
  
