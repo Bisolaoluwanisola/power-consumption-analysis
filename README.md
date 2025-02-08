@@ -7,16 +7,16 @@ It provides daily measurement of energy usage in diffrent areas.the datasey is u
 # LANDING PAGE
 - Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
 - Temperature – The measure of how hot or cold something is, usually expressed in degrees Celsius (°C) or Fahrenheit (°F).
-3. Humidity – The amount of water vapor present in the air, usually expressed as a percentage (%).
-4. Windspeed – The rate at which air moves in a given direction, commonly measured in meters per second (m/s) or kilometers per hour (km/h).
-5. General Diffuse Flow – The total amount of diffused solar radiation received at a given location, including all scattered sunlight.
-6. Diffuse Flow – The portion of solar radiation that is scattered by atmospheric particles and reaches the surface without direct sunlight.
-7. Day of the Week – The name of a specific day in the seven-day cycle (e.g., Monday, Tuesday, etc.).
-8. Power Consumption Zone 1, 2, and 3 – The amount of electrical energy used in specific predefined areas (Zone 1, Zone 2, and Zone 3) within a facility, building, or grid system, typically measured in kilowatt-hours (kWh)
+- Humidity – The amount of water vapor present in the air, usually expressed as a percentage (%).
+- Windspeed – The rate at which air moves in a given direction, commonly measured in meters per second (m/s) or kilometers per hour (km/h).
+-  General Diffuse Flow – The total amount of diffused solar radiation received at a given location, including all scattered sunlight.
+-  Diffuse Flow – The portion of solar radiation that is scattered by atmospheric particles and reaches the surface without direct sunlight.
+-  Day of the Week – The name of a specific day in the seven-day cycle (e.g., Monday, Tuesday, etc.).
+-  Power Consumption Zone 1, 2, and 3 – The amount of electrical energy used in specific predefined areas (Zone 1, Zone 2, and Zone 3) within a facility, building, or grid system, typically measured in kilowatt-hours (kWh)
 # DATA SOURCE
 [download here] https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 # TOOLS
-power bi
+  - power bi
 # TYPES OF ANALYSIS USED FOR THIS PROJECT 
 power consumption analysis- to analyze power consumption variance across the whole year
 power consumption analysis-to analyze the impact of powwer consumption acrosss all zones
