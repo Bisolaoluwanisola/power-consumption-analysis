@@ -21,7 +21,7 @@ It provides daily measurement of energy usage in diffrent areas.the datasey is u
 power consumption analysis- to analyze power consumption variance across the whole year
 power consumption analysis-to analyze the impact of powwer consumption acrosss all zones
 atmosphere condition analysis- to identify trends overtime across all the quaters of the year
--
+
 # KEY PERFORMANCE INDICATORS
 1. In which month is the power consumption variance the highest
 2.  Which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
