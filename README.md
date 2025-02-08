@@ -1,6 +1,7 @@
 # POWER CONSUMPTION ANALYSIS OVERVIEW 
 This dataset records power consumption across multiple zones along with enviromental factors such as temprature,humidity,and windspeed,spanning the year 2017
 It provides daily measurement of energy usage in diffrent areas.the datasey is useful for analyzing trends,forcasting power demand and optimizing energy distribution .it can help idetify patternsinfluenced by weather condition and improve energy efficiency strategies
+-
 
 # LANDING PAGE
 1. Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
@@ -19,6 +20,7 @@ power bi
 power consumption analysis- to analyze power consumption variance across the whole year
 power consumption analysis-to analyze the impact of powwer consumption acrosss all zones
 atmosphere condition analysis- to identify trends overtime across all the quaters of the year
+-
 # KEY PERFORMANCE INDICATORS
 1. In which month is the power consumption variance the highest
 2.  Which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
