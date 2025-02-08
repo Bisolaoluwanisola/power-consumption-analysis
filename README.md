@@ -1,9 +1,6 @@
 # POWER CONSUMPTION ANALYSIS OVERVIEW 
 This dataset records power consumption across multiple zones along with enviromental factors such as temprature,humidity,and windspeed,spanning the year 2017
 It provides daily measurement of energy usage in diffrent areas.the datasey is useful for analyzing trends,forcasting power demand and optimizing energy distribution .it can help idetify patternsinfluenced by weather condition and improve energy efficiency strategies
-
-
-
 # LANDING PAGE
 - Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
 - Temperature – The measure of how hot or cold something is, usually expressed in degrees Celsius (°C) or Fahrenheit (°F).
@@ -30,8 +27,6 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 5.  Which month experience the highest overall power consumption
 6.  On which day of the week is power consumption at its peak
 7.  ZONE
-
-
 # DATA ANALYSIS
 # DASHBOARD
 [Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/68bb3963-9162-44b8-98e9-ebe9b9c62e01)
@@ -55,5 +50,10 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 7. humidty(q1)install dehumidifier or energy efficient cooling system to reduce impact of humidy on power consumption
 9. diffuse energy (q2) use this quater quater high diffuse energy for solar energy harvsting ,increasing renewable usage
 10. temprature and wind (q3) optimize HVAC systems for efficient and leveraging and turbines if feasible in Q3 to supplement power supply
+| day | humidty |windspeed |temprature| 
+| --- | ---| ---|---|
+| monday | 30 | 40 | 60 |
+|tuesday| 60 | 80 | 90 |
+     
  
 
