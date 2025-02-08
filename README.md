@@ -16,7 +16,7 @@ It provides daily measurement of energy usage in diffrent areas.the datasey is u
 # DATA SOURCE
 [download here] https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 # TOOLS
-   - power bi
+*power bi*
 # TYPES OF ANALYSIS USED FOR THIS PROJECT 
 power consumption analysis- to analyze power consumption variance across the whole year
 power consumption analysis-to analyze the impact of powwer consumption acrosss all zones
