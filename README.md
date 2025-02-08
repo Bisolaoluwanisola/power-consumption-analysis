@@ -26,8 +26,20 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 4.  Was the power consumption taregt of the year archieved
 5.  Which month experience the highest overall power consumption
 6.  On which day of the week is power consumption at its peak
-7.  ZONE
+7.  What is the diffrence between the power consumption in zone 1 and the total power consumption
+8.  what is the diffrence between the power consumption in zone 2 and the total power consumption
+9.  what is the diffrence between the power consumption in zone 3 and the total power consumption
 # DATA ANALYSIS
+- Average power consumption ,date by power consumption variance:This indicate that july had the highest average power consumption at 88k while august has recorded the highest power consumption variance with 34k highlighting significant flunctuationsin power usage during these months.
+- Average power consumption ,month by zone:This analyis highlights that zone 1 recorded the highest average power consummption in both july and and august , reaching 36k.Zone 2 experience its peak consumption in august at 25k ,while Zone 3 recorded its highest consumption in july at 28k indicating variations in power usage across diffrent zones during these months.
+- Humidity , diffuseflows,windspeed and teprature by quarter :this indicates that Qtr 2 recorded the highest humidity at 0.09m and the highest diffuse flows at 0.93m and the highest diffuse flows at 1.36m. in contrast,Qtr 3 experienced the highest temprature at 0.033m and the highest temprature at 0.33m and the highest windspeed at 0.05
+- The KPI analysis indicates that the total monthly power consumption reached 275.40M, significantly exceeding the peak target of 96.62K. This represents a deviation of -284,947.02% from the target, highlighting a substantial increase in energy usage. Additionally, Zone 1 recorded a total power consumption of 1.7B kWh, reflecting its high energy demand.
+- The monthly power consumption analysis shows that July recorded the highest consumption at 393.61M, followed by a decline in the following months. Additionally, Zone 2 had a total power consumption of 1.1B kWh. This data highlights variations in energy usage across different periods, with a peak in July.
+- The analysis of power consumption by day indicates that Thursday recorded the highest energy usage at 73K kWh, followed closely by Wednesday and Tuesday at 72K kWh each. The lowest consumption was observed on Sunday at 68K kWh.
+
+
+
+
 # DASHBOARD
 [Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/68bb3963-9162-44b8-98e9-ebe9b9c62e01)
 ![dashboard2](https://github.com/user-attachments/assets/ececbce6-5223-4b22-9c9a-be55de4f7492)
@@ -50,15 +62,6 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 7. humidty(q1)install dehumidifier or energy efficient cooling system to reduce impact of humidy on power consumption
 9. diffuse energy (q2) use this quater quater high diffuse energy for solar energy harvsting ,increasing renewable usage
 10. temprature and wind (q3) optimize HVAC systems for efficient and leveraging and turbines if feasible in Q3 to supplement power supply
-
-    
-| day | humidty |windspeed |temprature| 
-| --- | ---| ---|---|
-| monday | 30 | 40 | 60 |
-|tuesday| 60 | 80 | 90 |
-
-'''python
-'''
      
  
 
