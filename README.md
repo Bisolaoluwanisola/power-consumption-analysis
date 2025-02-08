@@ -2,11 +2,11 @@
 This dataset records power consumption across multiple zones along with enviromental factors such as temprature,humidity,and windspeed,spanning the year 2017
 It provides daily measurement of energy usage in diffrent areas.the datasey is useful for analyzing trends,forcasting power demand and optimizing energy distribution .it can help idetify patternsinfluenced by weather condition and improve energy efficiency strategies
 
--
+
 
 # LANDING PAGE
-1. Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
-2. Temperature – The measure of how hot or cold something is, usually expressed in degrees Celsius (°C) or Fahrenheit (°F).
+- Date(datetime) -A specific day of the year, typically represented in formats like YYYY-MM-DD or DD/MM/YYYY.
+- Temperature – The measure of how hot or cold something is, usually expressed in degrees Celsius (°C) or Fahrenheit (°F).
 3. Humidity – The amount of water vapor present in the air, usually expressed as a percentage (%).
 4. Windspeed – The rate at which air moves in a given direction, commonly measured in meters per second (m/s) or kilometers per hour (km/h).
 5. General Diffuse Flow – The total amount of diffused solar radiation received at a given location, including all scattered sunlight.
