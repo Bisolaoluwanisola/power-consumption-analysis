@@ -56,15 +56,15 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 7. Thursday has the highest power consumption with 73k kwh
 
 # RECOMMENDATION 
-1. investigate the reson behind the spike in power consumption
-2. encourage energy efficient pratrice such as using smart meters to alert user of high consumption period or ofeer incentives for off peak usage
-3. ensuring infasture can handle high load of peak in peak month
-4. conduct zone specific energy audit to identify high consumption appliances ,processesor behaviour contributing to spike in zone 1
-5. promoting renewable energy solutions by installing solar panels or other renewable sources in high consumption zones to offset demand
-6. introdue targeted programs such as energy savings campaigns or smart grid technologies to manage zone 1 high demands
-7. humidty(q1)install dehumidifier or energy efficient cooling system to reduce impact of humidy on power consumption
-9. diffuse energy (q2) use this quater quater high diffuse energy for solar energy harvsting ,increasing renewable usage
-10. temprature and wind (q3) optimize HVAC systems for efficient and leveraging and turbines if feasible in Q3 to supplement power supply
+1. Investigate the reson behind the spike in power consumption
+2. Encourage energy efficient pratice such as using smart meters to alert user of high consumption period or ofeer incentives for off peak usage
+3. Ensuring infasture can handle high load of peak in peak month
+4. Conduct zone specific energy audit to identify high consumption appliances ,processesor behaviour contributing to spike in zone 1
+5. Promoting renewable energy solutions by installing solar panels or other renewable sources in high consumption zones to offset demand
+6. Introdue targeted programs such as energy savings campaigns or smart grid technologies to manage zone 1 high demands
+7. Humidty(q1)install dehumidifier or energy efficient cooling system to reduce impact of humidy on power consumption
+9. Diffuse energy (q2) use this quater quater high diffuse energy for solar energy harvsting ,increasing renewable usage
+10. Temprature and wind (q3) optimize HVAC systems for efficient and leveraging and turbines if feasible in Q3 to supplement power supply
      
  
 
