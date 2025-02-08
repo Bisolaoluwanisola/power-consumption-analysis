@@ -50,6 +50,8 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 7. humidty(q1)install dehumidifier or energy efficient cooling system to reduce impact of humidy on power consumption
 9. diffuse energy (q2) use this quater quater high diffuse energy for solar energy harvsting ,increasing renewable usage
 10. temprature and wind (q3) optimize HVAC systems for efficient and leveraging and turbines if feasible in Q3 to supplement power supply
+
+    
 | day | humidty |windspeed |temprature| 
 | --- | ---| ---|---|
 | monday | 30 | 40 | 60 |
