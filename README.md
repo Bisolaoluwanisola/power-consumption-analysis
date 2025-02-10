@@ -28,13 +28,13 @@ power consumption analysis-to analyze the impact of powwer consumption acrosss a
 atmosphere condition analysis- to identify trends overtime across all the quaters of the year
 
 # KEY PERFORMANCE INDICATORS
-##Primary KPIS
+# Primary KPIS
 - Power consumption variance: 38k
 - peak power consumption:137k
 - average power consumption:71k
 - total power consumption:3.73bn
 
-##Secondary KPIS
+# Secondary KPIS
 - In which month is the power consumption variance the highest
 -  Which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
 -  Which zone exhibit the highest power consumption
