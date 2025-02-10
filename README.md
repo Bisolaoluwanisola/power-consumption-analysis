@@ -14,21 +14,36 @@ It provides daily measurement of energy usage in diffrent areas.the datasey is u
 [download here] https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 # TOOLS
    -*power bi*
+# DATA CLEANING
+This process was carried out using power query
+- No duplicate were found in the dataset
+- Changed data type to ensure data accuracy and analysis
+- Eliminated 1 unwanted columns
+# DATA MANIPULATION
+- Created a new columns to create power consumption by day of the week with this dax funchion
+ Day of the week = FORMAT(powerconsumption[Datetime],"ddd")
 # TYPES OF ANALYSIS USED FOR THIS PROJECT 
 power consumption analysis- to analyze power consumption variance across the whole year
 power consumption analysis-to analyze the impact of powwer consumption acrosss all zones
 atmosphere condition analysis- to identify trends overtime across all the quaters of the year
 
 # KEY PERFORMANCE INDICATORS
-1. In which month is the power consumption variance the highest
-2.  Which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
-3.  Which zone exhibit the highest power consumption
-4.  Was the power consumption taregt of the year archieved
-5.  Which month experience the highest overall power consumption
-6.  On which day of the week is power consumption at its peak
-7.  What is the diffrence between the power consumption in zone 1 and the total power consumption
-8.  what is the diffrence between the power consumption in zone 2 and the total power consumption
-9.  what is the diffrence between the power consumption in zone 3 and the total power consumption
+##Primary KPIS
+- Power consumption variance: 38k
+- peak power consumption:137k
+- average power consumption:71k
+- total power consumption:3.73bn
+
+##Secondary KPIS
+- In which month is the power consumption variance the highest
+-  Which quater of the year recorded highest levels of humidity,temprature,diffuse flow and wind speed
+-  Which zone exhibit the highest power consumption
+-  Was the power consumption taregt of the year archieved
+-  Which month experience the highest overall power consumption
+- On which day of the week is power consumption at its peak
+- What is the diffrence between the power consumption in zone 1 and the total power consumption
+-  what is the diffrence between the power consumption in zone 2 and the total power consumption
+-  what is the diffrence between the power consumption in zone 3 and the total power consumption
 # DATA ANALYSIS
 - Average power consumption ,date by power consumption variance:This indicate that july had the highest average power consumption at 88k while august has recorded the highest power consumption variance with 34k highlighting significant flunctuationsin power usage during these months.
 - Average power consumption ,month by zone:This analyis highlights that zone 1 recorded the highest average power consummption in both july and and august , reaching 36k.Zone 2 experience its peak consumption in august at 25k ,while Zone 3 recorded its highest consumption in july at 28k indicating variations in power usage across diffrent zones during these months.
@@ -39,9 +54,6 @@ atmosphere condition analysis- to identify trends overtime across all the quater
 - Power consumption by zone 1: Zone 1 accounted for 1.7B kWh of power consumption, contributing to the overall total of 3.7B kWh. This suggests that Zone 1 is a major consumer, significantly impacting the overall energy usage.
 - Power consumption by zone 2:The analysis shows that power consumption peaked in July at 393.6M kWh, with a decline towards December. Zone 2 consumed 1.1B kWh, contributing significantly but not dominantly to the total 3.7B kWh. This highlights seasonal variations in energy use and the substantial role of Zone 2 in overall consumption.
 - power consumption by zone3:Zone 3 recorded a total power consumption of 0.9B kWh, contributing to the overall energy usage of 3.7B kWh. These insights highlight peak consumption periods and variations in energy demand across different days and zones.
-
-
-
 
 # DASHBOARD
 [Power consumption analysis] ![Dashboard 1](https://github.com/user-attachments/assets/68bb3963-9162-44b8-98e9-ebe9b9c62e01)
