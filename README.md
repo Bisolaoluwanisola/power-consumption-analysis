@@ -23,9 +23,11 @@ This process was carried out using power query
 - Created a new columns to create power consumption by day of the week with this dax funchion
  Day of the week = FORMAT(powerconsumption[Datetime],"ddd")
 # TYPES OF ANALYSIS USED FOR THIS PROJECT 
-power consumption analysis- to analyze power consumption variance across the whole year
-power consumption analysis-to analyze the impact of powwer consumption acrosss all zones
-atmosphere condition analysis- to identify trends overtime across all the quaters of the year
+power consumption analysis:To analyze power consumption variance across the whole year
+
+power consumption analysis:To analyze the impact of powwer consumption acrosss all zones
+
+atmosphere condition analysis: To identify trends overtime across all the quaters of the year
 
 # KEY PERFORMANCE INDICATORS
 # Primary KPIS
